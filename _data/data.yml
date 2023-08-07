@@ -81,7 +81,7 @@ projects:
         tagline: "A hardware accelerated 2D game engine for browsers written with WebGl and Javascript"
 
       - title: "Vobbangora Gorad Dortsars"
-        link: "TBA"
+        link: "https://github.com/dalygbarron/vobbango"
         tagline: "A browser based bullet hell style computer game written with Typescript"
 
       - title: SuperSpider
